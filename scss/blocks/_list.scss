@@ -1,0 +1,129 @@
+.list {
+    margin-top: 160px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.list__item {
+    display: flex;
+    margin-left: 90px;
+    margin-top: 62px;
+}
+
+.list__title {
+    transform: translateX(-40px);
+    margin: 0 auto;
+    width: 680px;
+    height: 94px;
+    top: 4.5px;
+    left: 200px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 46.67px;
+    text-align: center;
+    color: #071330;
+    // transform: translateX(330px);
+}
+
+.list__item--link1 {
+    list-style: none;
+    margin-top: 109px;
+}
+
+.list__item--link {
+    list-style: none;
+
+}
+
+.list__item--num {
+    width: 56px;
+    height: 56px;
+    gap: 0px;
+    border-radius: 100px 100px 100px 100px;
+    opacity: 0px;
+    background: #3D55F9;
+    color: #fff;
+}
+
+.list__item--num1 {
+    margin-left: 13px;
+    padding: 10px;
+    width: 8px;
+    height: 32px;
+    top: 13px;
+    left: 24px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+
+}
+
+.list__item--title {
+    margin-top: 24px;
+    width: 157px;
+    height: 32px;
+    top: 188.5px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    color: #071330;
+}
+
+.list__item--text {
+    width: 480px;
+    height: 96px;
+    top: 243.5px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    color: #07133099 60%;
+    margin-top: 23px;
+
+}
+
+.list__item--img {
+    width: 331px;
+    height: 431px;
+    top: 4.5px;
+    left: 779px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 229px;
+}
+
+.list__item--img1 {
+    width: 331px;
+    height: 430.71px;
+    top: 452.5px;
+    left: 779px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 229px;
+    margin-top: 90px;
+}
+
+.list__item--img2 {
+    width: 331px;
+    height: 430.71px;
+    top: 452.5px;
+    left: 779px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 229px;
+    margin-top: 140px;
+}

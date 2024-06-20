@@ -1,0 +1,64 @@
+.main {
+    margin-top: 58px;
+    padding: 20px;
+    background-image: url("../../img/mainbackgraund.png");
+    background-repeat: no-repeat;
+    background-position: 70%;
+    height: 569px;
+}
+
+
+
+.main__title {
+    width: 460px;
+    height: 100px;
+    top: 67px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 43px;
+    font-weight: 400;
+    line-height: 49.62px;
+    text-align: left;
+    color: #071330;
+    margin-left: 90px;
+}
+
+.main__text {
+    width: 420px;
+    height: 97px;
+    top: 7px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32.04px;
+    text-align: left;
+    margin-left: 90px;
+    margin-top: 81px;
+}
+
+.main__input {
+    width: 325px;
+    height: 80px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 15px 0px 0px 15px;
+    border: 1px solid #fff;
+    margin-left: 90px;
+}
+
+.email__btn {
+    margin-left: -10px;
+    width: 172px;
+    height: 85px;
+    top: 12px;
+    left: 313px;
+    gap: 0px;
+    opacity: 0px;
+    background: #3D55F9;
+    border: 1px solid #3D55F9;
+    border-radius: 0px 15px 15px 0px;
+    color: #fff;
+}
